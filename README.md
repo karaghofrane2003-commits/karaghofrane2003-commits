@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ <p align="center">
+   <img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhieDB0YXdzNHJiZmRyZDFlb201N3h0Zng5c3d3aXZucTVkbWp4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TexuKBfvpWjaIuACrz/giphy.gif" height="200"
+     width="full"/>
+ </p> 
 <!--
 **karaghofrane2003-commits/karaghofrane2003-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
