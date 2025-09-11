@@ -23,17 +23,17 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
 - 📫 How to reach me: karaghofrane2003@gmail.com
 - ⚡ Fun fact: Dark mode is not just a preference, it’s a lifestyle
 
-  <hr/>
-  <h2><strong>Reach me out!</strong></h2>
+<hr/>
+<h2><strong> Reach me out!</strong></h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kara-ghofrane-a7a015383/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="karaghofrane2003l@gmail.com" target="_blank">
+  <a href="mailto:karaghofrane2003l@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ghofranekara.netlify.app/ " target="_blank">
+  <a href="https://ghofranekara.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
