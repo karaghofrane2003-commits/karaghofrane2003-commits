@@ -24,7 +24,7 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
 - ⚡ Fun fact: Dark mode is not just a preference, it’s a lifestyle
 
   <hr/>
-  <h2><strong>Connect with me:</strong></h2>
+  <h2><strong>Reach me out!</strong></h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kara-ghofrane-a7a015383/" target="_blank">
