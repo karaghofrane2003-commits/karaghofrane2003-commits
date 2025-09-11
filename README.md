@@ -12,13 +12,12 @@
        height="500" />
  </p> 
 </div>
-<!--
-**karaghofrane2003-commits/karaghofrane2003-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## 👋 About Me  
 
-I am Kara Ghofrane, a passionate Frontend Developer with a strong interest in designing and coding modern, elegant, and responsive user interfaces. My journey in web development started with a fascination for how design and code can come together to create seamless digital experiences. Over time, I have specialized in frontend technologies such as HTML, CSS, JavaScript, and React, which allow me to bring ideas to life on the web with creativity and precision.  
+I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive, and user-friendly web applications. I work mainly with React, Next.js, TypeScript, Tailwind CSS, and JavaScript to create clean and elegant interfaces. Currently, I’m learning Node.js and Django to expand my backend knowledge and grow into a Full-Stack Developer. Passionate about writing maintainable code and exploring new technologies, I enjoy turning ideas into impactful digital solutions.  
 
-Currently, I am expanding my skill set by learning Backend Development with Node.js and databases, as I aim to become a versatile Full-Stack Developer. For me, web development is not just about writing code, but about crafting solutions that are intuitive, accessible, and impactful. I am highly motivated to continuously learn, take on challenges, and contribute to meaningful projects that add real value to users and businesses alike.  
+
 
 Here are some ideas to get you started:
 
