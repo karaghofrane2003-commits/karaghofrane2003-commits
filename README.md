@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFBF&center=true&vCenter=true&width=600&lines=Kara+Ghofrane" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Kara+Ghofrane" />
 </div>
 
 <hr/>
