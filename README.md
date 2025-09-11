@@ -38,7 +38,7 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
   </a>
 </div>
 <hr/>
-<h2><strong>🛠️ Languages and Tools</strong></h2>
+<h2><strong>🛠 Languages and Tools</strong></h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -59,9 +59,7 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
 </div>
 
 <hr/>
-<h2><strong> Frontend Development</strong></h2>
 
-<div align="center">
 <h2><strong> Frontend Development</strong></h2>
 
 <div align="center">
