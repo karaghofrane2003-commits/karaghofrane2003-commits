@@ -24,17 +24,17 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
 - ⚡ Fun fact: Dark mode is not just a preference, it’s a lifestyle
 
 <hr/>
-<h2><strong> Reach me out!</strong></h2>
+<h2><strong>Reach me out!</strong></h2>
 
-<div >
+<div align="center">
   <a href="https://www.linkedin.com/in/kara-ghofrane-a7a015383/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 0 15px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:karaghofrane2003l@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="50" height="50" style="margin: 0 15px;" />
+  <a href="karaghofrane2003l@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ghofranekara.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio" width="50" height="50" style="margin: 0 15px;" />
+  <a href="https://ghofranekara.netlify.app/ " target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
