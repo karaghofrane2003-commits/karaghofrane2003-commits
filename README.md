@@ -1,11 +1,9 @@
 
 <div align="center">
-
-  <!-- Kara Ghofrane puis Web Developer -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=KARA+Ghofrane;Web+Developer" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FFBF&center=true&vCenter=true&width=600&lines=Kara+Ghofrane" />
 </div>
-<hr style="border: none; height: 3px; background: #00FFBF;"/>
+
+<hr/>
 <div>
    <p align="center">
    <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB1aHJrcmw5ZW4xN2Y3ZXdibGZobGUwM3RvZHZhOXp6M3Vvc2tpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  width="800"
