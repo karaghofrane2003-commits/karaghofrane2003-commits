@@ -20,5 +20,5 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
 - 🔭 I’m currently working on HealthCare application with flutter
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **Design** and **Web Development** 
-- 📫 How to reach me: 
+- 📫 How to reach me: https://ghofranekara.netlify.app/ , karaghofrane2003@gmail.com
 - ⚡ Fun fact: Dark mode is not just a preference, it’s a lifestyle
