@@ -89,7 +89,5 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karaghofrane&theme=tokyonight" alt="GitHub Streak" height="180" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaghofrane&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</div>
+
 
