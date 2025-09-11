@@ -82,12 +82,12 @@ I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
-<h2><strong> GitHub Stats</strong></h2>
+<!-- <h2><strong> GitHub Stats</strong></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karaghofrane&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karaghofrane&theme=tokyonight" alt="GitHub Streak" height="180" />
 </div>
-
+ -->
 
 
