@@ -17,7 +17,7 @@
 
 I’m Kara Ghofrane, a Frontend Developer focused on building modern, responsive, and user-friendly web applications. I work mainly with React, Next.js, TypeScript, Tailwind CSS, and JavaScript to create clean and elegant interfaces. Currently, I’m learning Node.js and Django to expand my backend knowledge and grow into a Full-Stack Developer.
 
-- 🔭 I’m currently working on HealthCare application with flutter
+- 🔭 I’m currently working on HealthCare application using flutter
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about **Design** and **Web Development** 
 - 📫 How to reach me: karaghofrane2003@gmail.com
