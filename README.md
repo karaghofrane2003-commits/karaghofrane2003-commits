@@ -1,10 +1,4 @@
 
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=450&lines=KARA+Ghofrane" />
-
-</div>
-
 <hr/>
 <div>
    <p align="center">
